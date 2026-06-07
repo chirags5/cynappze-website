@@ -213,6 +213,10 @@
 
 .hero__proof-avatar + .hero__proof-avatar { margin-left: -12px; }
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> satyam
 .hero__proof-text {
   font-size: var(--text-sm);
   color: var(--c-text-dim);
